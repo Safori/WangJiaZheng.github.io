@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "WJZ_touxiang.jpg"
+  avatar           : "WJZ_touxiang.png"
   name             : "Wang JiaZheng"
   pronouns         : # example: "she/her"  
   bio              : "I am a happy girl now and will happy in a long long future!"
